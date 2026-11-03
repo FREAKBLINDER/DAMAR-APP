@@ -1,0 +1,8 @@
+github/workflows/build.yml
+· settings.gradle
+· build.gradle
+· gradle.properties
+· app/build.gradle
+· app/src/main/AndroidManifest.xml
+· app/src/main/java/com/nyx/homunity/MainActivity.kt
+· app/src/main/res/layout/activity_main.xml
